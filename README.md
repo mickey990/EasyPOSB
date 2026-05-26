@@ -1,2 +1,1 @@
-# chekin
 EasyPOS-b
