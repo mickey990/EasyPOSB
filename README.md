@@ -1,2 +1,2 @@
 # chekin
-checik
+EasyPOS-b
