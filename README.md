@@ -1,1 +1,1 @@
-EasyPOS-b
+Bazar
